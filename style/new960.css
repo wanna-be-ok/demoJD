@@ -1,0 +1,306 @@
+body{
+    padding:0;
+    margin:0 auto;
+    width:960px;
+
+}
+#headerd {
+    height:80px;
+    width:100%;
+}
+#dhd1 {
+    float: left;
+    margin-top:10px;
+    margin-left:190px;
+    font-size:23px;
+}
+#dhd1 img {
+    vertical-align: -25px;
+    margin-right: 15px;
+}
+#dhd2{
+    float: right;
+    font-size:12px;
+    margin-top:55px;
+    margin-right:190px;
+    color: #777;
+}
+#dhd2 img{
+    vertical-align: -3px;
+    margin-right:5px;
+}
+#dhd1 a:hover{
+    cursor: pointer;
+}
+#dhd2 a:hover{
+    color: #c81623;
+    text-decoration: underline;
+    cursor: pointer;
+}
+#dd {
+    background: #01126f;
+}
+#dd .db {
+    margin-left:190px;
+
+}
+
+
+#dd .dc{
+    background-color: #fff;
+    width:350px;
+    position: absolute;
+    top:120px;
+    right:180px;
+}
+#dd .dc ul li{
+    margin:0;
+    padding:0;
+    list-style-type: none;
+    float: left;
+    font-size:18px;
+    padding-left:50px;
+    padding-right:50px;
+}
+#dd .dc ul .liii {
+    border-right:1px solid #eee;
+}
+#dd .dc ul{
+    padding-top:20px;
+    border-bottom:1px solid #eee;
+    height:35px;
+}
+#dd .dc ul li:hover{
+    color: #c81623;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#dd .dc .dzh{
+    clear:both;
+
+}
+.dzh3 a:hover{
+    color: #c81623;
+    cursor: pointer;
+    text-decoration: underline;
+}
+
+
+
+
+
+
+#dd .dc .dzh .dzh1 {
+    margin-left:20px;
+    margin-top:35px;
+    width:300px;
+
+    border:1px solid #eee;
+
+}
+#dd .dc .dzh .dzh1 label img {
+    vertical-align: -13px;
+}
+#dd .dc .dzh .dzh1 input {
+    width:240px;
+    border:none;
+
+}
+#dd .dc .dzh .dzh2 {
+    margin-left:20px;
+    margin-top:20px;
+    width:300px;
+    margin-bottom:20px;
+    border:1px solid #eee;
+
+}
+
+#dd .dc .dzh .dzh2 input {
+    width:240px;
+    border:none;
+}
+#dd .dc .dzh .dzh3 {
+    margin-left:20px;
+    margin-bottom:20px;
+    font-size:12px;
+}
+#dd .dc .dzh .dzh3 input{
+    vertical-align: -3px;
+}
+#dd .dc .dzh .dzh3 a {
+    margin-left:185px;
+}
+#dd .dc .dzh button {
+    height:38px;
+    width:300px;
+    background: #c81623;
+    color: #fff;
+    border:none;
+    font-size:23px;
+    margin-left:20px;
+    margin-bottom:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+#dd .dc .dzd {
+    font-size:12px;
+    padding-top:15px;
+    padding-bottom:10px;
+    border-top:1px solid #ddd;
+}
+#dd .dc .dzd .a1{
+    margin-left:20px;
+    margin-right:10px;
+
+}
+#dd .dc .dzd .a2{
+    padding-left:10px;
+    margin-right:10px;
+    border-left:1px solid #eee;
+}
+#dd .dc .dzd .a3{
+    margin-left:105px;
+    color: #c81623;
+    text-decoration: none;
+}
+#dd .dc .dzd .a3:hover{
+    text-decoration: underline;
+}
+#dd .dc .dzd .a1:hover{
+    cursor: pointer;
+}
+#dd .dc .dzd .a2:hover{
+    cursor: pointer;
+}
+#dd .dc .dzd .a1 img {
+    vertical-align: -7px;
+
+}
+#dd .dc .dzd .a2 img {
+    vertical-align: -10px;
+
+}
+#dd .dc .dzd .a3 img {
+    vertical-align: -4px;
+
+}
+#dd .dc .dzs .hhd{
+    margin-top:20px;
+    margin-bottom:20px;
+    height:170px;
+}
+#dd .dc .dzs .hhd .dyt {
+    float: left;
+    margin-left:98px;
+
+}
+
+
+
+
+
+#dd .dc .dzs .hhd .dct {
+    float: left;
+    display: none;
+}
+
+
+
+
+#dd .dc .dzs .p1{
+    font-size:13px;
+    margin-left:100px;
+    margin-bottom:20px;
+    clear: both;
+}
+#dd .dc .dzs .p1 a {
+    color: #f00;
+}
+#dd .dc .dzs .p2 {
+    margin-left:60px;
+    font-size:13px;
+    color: #aaa;
+    margin-bottom:20px;
+
+}
+#dd .dc .dzs .p2 img{
+    vertical-align: -13px;
+    margin-right:5px;
+
+}
+#dd .dc .dzs .p2 span {
+    margin-right:10px;
+
+}
+#dd .dc .xuanze {
+    display: none;
+}
+#dd .dc  {
+    display: block;
+}
+#dd .dc .dzh {
+    display: block;
+}
+#dd .dc .dzs {
+    display: block;
+}
+.red {
+    color: #c81623;
+    font-weight: bold;
+    border-right:1px solid #eee;
+}
+.dzh2 .label{
+    display: inline-block;
+    width: 38px;
+    height:38px;
+    background: url("../img1/s1.png") center;
+
+}
+.dzh2 input {
+    position: absolute;
+    top:165px;
+    margin-left:5px;
+
+}
+.dzh1 {
+    background-color: #fff;
+}
+.dzh1 .label{
+    display: inline-block;
+    width: 38px;
+    height:38px;
+    background: url("../img1/t1.png") center;
+
+}
+.dzh1 input {
+    position: absolute;
+    top:105px;
+    margin-left:5px;
+
+}
+button:hover{
+    cursor: pointer;
+}
+.dzh1 .lbt{
+    display: inline-block;
+    width: 38px;
+    height:38px;
+    background: url("../img1/t2.png") center;
+}
+.dzh2 .lbs{
+    display: inline-block;
+    width: 38px;
+    height:38px;
+    background: url("../img1/s2.png") center;
+
+}

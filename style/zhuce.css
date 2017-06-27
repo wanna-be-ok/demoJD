@@ -1,0 +1,389 @@
+body{
+    padding:0;
+    margin:0 auto;
+    width:960px;
+
+
+}
+*{
+    margin:0;
+    padding:0;
+
+}
+body {
+    font-family: "Hiragino Sans GB","Microsoft Yahei",SimSun,Arial,"Helvetica Neue",Helvetica;
+    position: relative;
+}
+#header {
+    width: 100%;
+    height:100px;
+    box-shadow: 0 3px 10px  #ccc;
+}
+#hd2 {
+    float: right;
+    padding-top:60px;
+    padding-right: 70px;
+}
+#hd2 em{
+    font-style: normal;
+    color: #aaa;
+}
+#hd2 a {
+    cursor: pointer;
+}
+#hd1 {
+    float: left;
+    font-size:25px;
+}
+#hd1 img {
+    margin-left: 70px;
+    margin-top: 15px;
+    vertical-align: -15px;
+    margin-right: 25px;
+}
+#rz {
+    float: left;
+    margin-top: 60px;
+    padding-left:60px;
+    padding-right:80px;
+
+
+}
+#rz .d1,.d2,.d3,.d4,.d5,.d6 {
+    width:400px;
+    height:52px;
+    border:1px solid #ccc;
+    margin-bottom:35px;
+
+}
+#rz .d1 label {
+    display: inline-block;
+    width:110px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+
+
+}
+#rz .d1 input {
+    width:190px;
+    border:none;
+}
+#rz .d2 label {
+    display: inline-block;
+    width:110px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+
+
+}
+#rz .d2 input {
+    width:190px;
+    border:none;
+}
+#rz .d3 label {
+    display: inline-block;
+    width:110px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+
+
+}
+#rz .d3 input {
+    width:190px;
+    border:none;
+}
+#rz .d4 img {
+    vertical-align: -6px;
+}
+#rz .d4 img:hover{
+    cursor: pointer;
+}
+#rz .d4 label {
+    display: inline-block;
+    width:150px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+    border-right:1px solid #ccc;
+    height:52px;
+
+
+}
+#rz .d4 input {
+    width:150px;
+    border:none;
+}
+#rz .d5 label {
+    display: inline-block;
+    width:110px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+
+
+}
+#rz .d5 input {
+    width:160px;
+    border:none;
+}
+#rz .d5 img{
+    width:120px;
+    height: 48px;
+    vertical-align: -20px;
+    margin-top:2px;
+    cursor: pointer;
+
+}
+#rz .d6 label {
+    display: inline-block;
+    width:110px;
+    text-align:center;
+    line-height: 50px;
+    font-size:14px;
+
+
+}
+#rz .d6 input {
+    width:160px;
+    border:none;
+}
+#rz .d6 button {
+    width:120px;
+    height:48px;
+    background: #f2f2f2;
+    border: none;
+    margin-top:2px;
+cursor: pointer;
+}
+#rz p {
+    color: #3388ff;
+    font-size:12px;
+    margin-left:353px;
+cursor: pointer;
+}
+#rz .d4 {
+    margin-bottom:12px;
+
+}
+#rz .d5{
+    margin-top:12px;
+
+}
+#rz .d7 input{
+    width:18px;
+    height:18px;
+vertical-align: -4px;
+}
+#rz .d7 label {
+    font-size:12px;
+    margin-left:-5px;
+}
+#rz .d7 a {
+    font-size:12px;
+    color: #3388ff;
+}
+#rz .d7 {
+    margin-bottom:35px;
+
+}
+#rz .d8 button{
+    width:400px;
+    height:52px;
+    border:none;
+    color:#fff;
+    background: #ee2222;
+    font-size:16px;
+
+}
+#rz .d8 button:hover{
+    cursor: pointer;
+}
+article {
+    height:770px;
+
+}
+
+#lz {
+    float:left;
+    margin-top:60px;
+    height:610px;
+    border-left:1px solid #ccc;
+
+}
+#lz .lz1 {
+    margin-left:120px;
+    font-size:14px;
+border-bottom: 1px solid #ccc;
+padding-bottom: 30px;
+}
+#lz .lz1 img {
+    margin-right:20px;
+vertical-align: -7px;
+
+
+}
+#lz .lz2 {
+    margin-left:120px;
+    font-size:14px;
+    padding-top: 30px;
+    padding-bottom:50px;
+}
+#lz .lz2 img {
+    vertical-align: -20px;
+    margin-right:20px;
+
+}
+#lz .lz2 em {
+    font-style: normal;
+    display:block;
+    padding-left:48px;
+margin-top:-15px;
+
+}
+#lz .lz1 a:hover{
+    font-weight: bold;
+    cursor: pointer;
+}
+#lz .lz2 a:hover{
+    font-weight: bold;
+    cursor: pointer;
+}#lz .lz3 img {
+     margin-left:90px;
+
+ }
+
+
+footer{
+    clear: both;
+    border-top:1px solid #ccc;
+    width:960px;
+
+
+
+}
+footer .da {
+    margin-top:35px;
+    color: #999;
+    margin-left:110px;
+}
+footer .da a {
+    display:inline-block;
+    font-size:12px;
+    padding-right: 5px;
+    padding-left:5px;
+    border-right:1px solid #ccc;
+
+}
+footer .dzf {
+    font-size:12px;
+    color:#999;
+    margin-left:360px;
+    padding-top:20px;
+    padding-bottom:30px;
+
+
+}
+#fd {
+    width:33px;
+    height:135px;
+    position: fixed;
+    right:0;
+    bottom:50%;
+    display: block;
+    background-image: url(../img3/fdg.png);
+    cursor: pointer;
+    border-radius: 3px;
+
+}
+#fd:hover {
+    background-image: url(../img3/fdh.png);
+}
+
+#rz .ztc div {
+    display: none;
+}
+#rz .ztc ul li {
+    list-style-type: none;
+}
+#rz .ztc>ul {
+    width:290px;
+    height:30px;
+
+
+}
+#rz .ztc>ul>li{
+
+    display: inline-block;
+    font-size:14px;
+    padding-left:8px;
+    padding-right:8px;
+    border-bottom:2px solid #ccc;
+    margin-right:-5px;
+    padding-bottom:10px;
+    cursor: pointer;
+}
+#rz .ztc ul li:hover {
+    color: #c4393c;
+    border-bottom:2px solid #c4393c;
+}
+#rz .ztc .ztcd1 {
+    width:290px;
+ display: block;
+}
+#rz .ztc {
+    padding:10px 20px;
+    background: #fff;
+    z-index: 100;
+    position: relative;
+    width:290px;
+    height:180px;
+    top:-320px;
+    box-shadow: 0 0 10px  #ccc;
+    display: none;
+}
+#rz .ztc:before {
+    border:solid transparent;
+    border-bottom-color:#fff;
+    border-width:10px;
+    content: " ";
+    height:0;
+    left:20%;
+    margin-left:-5px;
+    position: absolute;
+    top:-20px;
+    width:0;
+    
+}
+#rz .ztc .ztcd1 dl {
+    float: left;
+    margin-left:2px;
+    margin-right:8px;
+    margin-top:15px;
+
+}
+#rz .ztc .ztcd1 dl dd {
+
+    font-size:13px;
+    margin-top:5px;
+    color: #333;
+}
+#rz .ztc .ztcd1 dl dd:hover {
+    color: #c4393c;
+    cursor: pointer;
+}
+footer a:hover{
+    cursor: pointer;
+}
+#defent {
+    border:none;
+}
+#rz .d7 a:hover {
+    cursor: pointer;
+}
+#hd2 a {
+    color: #000;
+    text-decoration: none;
+}
